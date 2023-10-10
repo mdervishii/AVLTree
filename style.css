@@ -1,0 +1,15 @@
+.login-button{
+  -fx-pref-height:12px;
+  -fx-pref-width:80px;
+  -fx-background-color:#153B50;
+  -fx-font-size:12px;
+  -fx-font-weight:bold;
+  -fx-font-family:"Arial";
+  -fx-text-fill:#F5F5F5;
+  -fx-text-align: center;
+  -fx-cursor: pointer;
+  -fx-text-decoration: none;
+  -fx-display: inline-block;
+  -fx-box-sizing: border-box;
+  -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.4) , 5, 0.0 , 0 , 1 );
+}
